@@ -244,7 +244,6 @@ The Power BI dashboard provides an interactive view of ONORC interstate transact
 - Yearly transaction trend
 
 ---
-![ONORC Dashboard](dashboard/ONORC%20DASHBOARD.png)
 # 💡 KEY BUSINESS INSIGHTS
 
 ### 1. High Transaction Volume
