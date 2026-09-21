@@ -4,7 +4,7 @@ End-to-end ONORC interstate transaction analysis using PostgreSQL, SQL, Python, 
 
 ## End-to-End Data Analytics Project using PostgreSQL, SQL, Python & Power BI
 
-![ONORC Dashboard](dashboard/ONORC_Dashboard.png)
+![ONORC Dashboard](dashboard/ONORC%20DASHBOARD.png)
 
 ---
 
